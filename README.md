@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AnjaniYadav1/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AnjaniYadav1/DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnjaniYadav1/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnjaniYadav1/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AnjaniYadav1/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnjaniYadav1/DSA/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/AnjaniYadav1/DSA/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnjaniYadav1/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AnjaniYadav1/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/AnjaniYadav1/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnjaniYadav1/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnjaniYadav1/DSA/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/AnjaniYadav1/DSA/tree/master/0881-boats-to-save-people) |
