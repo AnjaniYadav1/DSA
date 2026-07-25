@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnjaniYadav1/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/AnjaniYadav1/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnjaniYadav1/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AnjaniYadav1/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnjaniYadav1/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AnjaniYadav1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnjaniYadav1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/AnjaniYadav1/DSA/tree/master/0881-boats-to-save-people) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AnjaniYadav1/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AnjaniYadav1/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AnjaniYadav1/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AnjaniYadav1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AnjaniYadav1/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AnjaniYadav1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnjaniYadav1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnjaniYadav1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
