@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AnjaniYadav1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/AnjaniYadav1/DSA/tree/master/0457-circular-array-loop) |
+| [0643-maximum-average-subarray-i](https://github.com/AnjaniYadav1/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/AnjaniYadav1/DSA/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AnjaniYadav1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnjaniYadav1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AnjaniYadav1/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
