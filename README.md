@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnjaniYadav1/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnjaniYadav1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnjaniYadav1/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/AnjaniYadav1/DSA/tree/master/2653-sliding-subarray-beauty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnjaniYadav1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0457-circular-array-loop](https://github.com/AnjaniYadav1/DSA/tree/master/0457-circular-array-loop) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnjaniYadav1/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/AnjaniYadav1/DSA/tree/master/2653-sliding-subarray-beauty) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnjaniYadav1/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AnjaniYadav1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnjaniYadav1/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2653-sliding-subarray-beauty](https://github.com/AnjaniYadav1/DSA/tree/master/2653-sliding-subarray-beauty) |
 ## Prefix Sum
 |  |
 | ------- |
